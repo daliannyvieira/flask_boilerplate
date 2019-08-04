@@ -1,4 +1,4 @@
-from application.Hello import HelloWorld
+from application.UserService import UserService
 from application.App import service
 
 if __name__ == '__main__':
